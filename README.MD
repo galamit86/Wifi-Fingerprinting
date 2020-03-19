@@ -2,7 +2,7 @@
 
 ## General
 
-This repository consists of a single major file: "Report.ipynb", and sever extra ones.\
+This repository consists of a single major file: "Report.ipynb", and several extra ones.\
 \
 It is a Jupyter Notebook, which goes through the prcoess of **attempting to validate** the idea of **using Wifi** signal to create an ***indoor positiong system*** (x, y, z location).
 
