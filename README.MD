@@ -21,7 +21,7 @@ To run all of it on your local environmnet you'd need to have the following inst
 ### working_funcs.py
 A module titled "working_funcs.py" is provided, in which a few functions used in the notebook (two permutations on rotating coordinates, and two permutations on normalizing a Series as a percentage of the maximum value in the Series).
 
-To install it, download the folder, navigate to it using the terminal and run:
+To install it, download the zipped folder, extract it, navigate to it using the terminal and run:
 
 python3 setup.py install
 
